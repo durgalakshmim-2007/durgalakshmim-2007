@@ -40,7 +40,7 @@ A Java-based console game where players guess a randomly generated number betwee
 - Java Programming
 - Data Structures
 - Problem Solving
-- Git and GitHub
+  
 
 ## 🌟 My Goal
 
