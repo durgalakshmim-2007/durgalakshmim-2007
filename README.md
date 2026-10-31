@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Durgalakshmi!
 
-<!--
-**durgalakshmim-2007/durgalakshmim-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about programming, learning new technologies, and building practical projects.
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- ☕ Learning Java Programming
+- 💡 Interested in Software Development
+- 🌱 Improving my programming and problem-solving skills
+- 🎯 Working on beginner-friendly projects
+
+## 🛠️ Technical Skills
+
+- Java
+- C Programming
+- Python (Learning)
+- HTML & CSS (Learning)
+
+## 📂 My Projects
+
+### 🎮 Number Guessing Game
+
+A Java-based console game where players guess a randomly generated number between 1 and 100.
+
+**Features:**
+- Random number generation
+- Too High / Too Low hints
+- Motivational messages with emojis
+- Attempts counter
+
+[View Project](https://github.com/durgalakshmim-2007/Number-Guessing-Game)
+
+## 📚 Currently Learning
+
+- Java Programming
+- Data Structures
+- Problem Solving
+- Git and GitHub
+
+## 🌟 My Goal
+
+To become a skilled software developer by continuously learning, practising, and building projects.
+
+---
+
+✨ *Learning every day. Building step by step.*
